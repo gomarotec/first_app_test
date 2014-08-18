@@ -25,7 +25,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 
 group :development do
   # Use sqlite3 as the database for Active Record
-  gem 'sqlite3'
+  gem 'sqlite3','1.3.8'
 end
 
 # Use ActiveModel has_secure_password
